@@ -1,0 +1,10 @@
+Front-End/electron-vue/dist_electron/win-unpacked/electron-vue.exe filter=lfs diff=lfs merge=lfs -text
+Front-End/electron-vue/dist_electron/electron-vue filter=lfs diff=lfs merge=lfs -text
+Setup filter=lfs diff=lfs merge=lfs -text
+0.1.0.exe filter=lfs diff=lfs merge=lfs -text
+67d88225f153c9002f318d603dbb322ed3c42eae726cdd362934ce2c12e4c102 filter=lfs diff=lfs merge=lfs -text
+for filter=lfs diff=lfs merge=lfs -text
+more filter=lfs diff=lfs merge=lfs -text
+information. filter=lfs diff=lfs merge=lfs -text
+Front-End/electron-vue/node_modules/electron/dist/electron.exe filter=lfs diff=lfs merge=lfs -text
+*.exe filter=lfs diff=lfs merge=lfs -text
